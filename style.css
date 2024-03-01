@@ -1,0 +1,46 @@
+.header{
+    height: 700px;
+    background: url(./Header.jpg);
+    background-size: cover;
+    background-position: center;
+    box-sizing: border-box;
+}
+.reta{
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    background: #FFF;
+}
+.soz-2{
+    font-size: 100px;
+}
+.calf{
+   width: 100%;
+   background-color: #282828;
+   box-sizing: border-box;
+}
+.stomach{
+    width: 100%;
+    background-color: #282828;
+    box-sizing: border-box;
+}
+.leg{
+    width: 100%;
+    background-color: #282828;
+    box-sizing: border-box; 
+}
+.oyoq{
+    width: 255px;
+    height: 312px;
+    border-radius: 6px;
+    background-color: #fff;
+}
+.view{
+    width: 50%;
+    background-color: #000;
+}
+.footer{
+    width: 100%;
+    background-color: #282828;
+    box-sizing: border-box;    
+}
